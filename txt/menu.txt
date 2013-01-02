@@ -1,0 +1,13 @@
+		<table border="0" cellpadding="5" cellspacing="0" width="100%" background="">			
+				<tr><td> <a href="index.php">Главная</a>  </td></tr>
+				<tr><td> <a href="bio.php">Биография</a> </td></tr>
+				<tr><td> <a href="works.php">Научные труды</a> </td></tr>
+				<tr><td> <a href="soft.php">Программное обеспечение</a> </td></tr>
+				<tr><td> <a href="diplomas.php">Дипломники</a> </td></tr>
+				<tr><td> <a href="studentsworks.php">Материалы студентов</a> </td></tr>
+				<tr><td> <a href="notes.php">Заметки</a> </td></tr>
+				<tr><td> <a href="works.php">Сотрудничество</a> </td></tr>
+				<tr><td> <a href="services.php">Услуги</a> </td></tr>
+				<tr><td> <a href="links.php">Ссылки</a> </td></tr>
+				<tr><td> <a href="contacts.php"> Контакты</a> </td></tr>
+		</table>
